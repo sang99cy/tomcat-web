@@ -1,0 +1,11 @@
+167.248.133.115 - - [16/Jan/2022:01:14:22 +0700] "GET / HTTP/1.1" 404 1078
+42.118.39.180 - - [16/Jan/2022:16:29:46 +0700] "GET /hrm-web/index.html HTTP/1.1" 200 13570
+42.118.39.180 - - [16/Jan/2022:16:29:47 +0700] "GET /hrm-web/index.html HTTP/1.1" 304 -
+42.118.39.180 - - [16/Jan/2022:16:29:47 +0700] "GET /hrm-web/index.html HTTP/1.1" 304 -
+42.118.39.180 - - [16/Jan/2022:16:29:47 +0700] "GET /hrm-web/polyfills.b3907014be173027c658.js HTTP/1.1" 304 -
+42.118.39.180 - - [16/Jan/2022:16:29:47 +0700] "GET /hrm-web/runtime.7486af5655ef1229c1b5.js HTTP/1.1" 304 -
+42.118.39.180 - - [16/Jan/2022:16:29:47 +0700] "GET /hrm-web/main.6db9de176a7c64a36d4c.js HTTP/1.1" 304 -
+42.118.39.180 - - [16/Jan/2022:16:29:47 +0700] "GET /hrm-web/styles.560d2c50e1e930795716.css HTTP/1.1" 304 -
+42.118.39.180 - - [16/Jan/2022:16:29:53 +0700] "GET /hrm-web/329.6b4f2d05105c085e6f25.js HTTP/1.1" 304 -
+42.118.39.180 - - [16/Jan/2022:16:29:57 +0700] "GET /hrm-web/i18n/en.json?_=a93c82e6b05ceb08b024604d60fcfabd HTTP/1.1" 304 -
+42.118.39.180 - - [16/Jan/2022:16:29:59 +0700] "GET /hrm-web/content/images/icon_default.jpg HTTP/1.1" 304 -

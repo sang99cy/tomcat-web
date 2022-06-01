@@ -1,0 +1,10 @@
+1.53.119.141 - - [20/Apr/2022:09:48:26 +0700] "GET /hrm-web/index.html HTTP/1.1" 200 13776
+1.53.119.141 - - [20/Apr/2022:09:48:27 +0700] "GET /images/logo-jhipster.png HTTP/1.1" 404 1078
+1.53.119.141 - - [20/Apr/2022:09:48:29 +0700] "GET /content/images/icons.svg HTTP/1.1" 404 1078
+1.53.119.141 - - [20/Apr/2022:11:38:22 +0700] "GET /images/logo-jhipster.png HTTP/1.1" 404 1078
+1.53.119.141 - - [20/Apr/2022:11:38:23 +0700] "GET /content/images/icons.svg HTTP/1.1" 404 1078
+14.248.82.236 - - [20/Apr/2022:15:27:31 +0700] "GET /hrm-web/index.html HTTP/1.1" 200 13776
+14.248.82.236 - - [20/Apr/2022:15:27:33 +0700] "GET /content/images/icons.svg HTTP/1.1" 404 1078
+14.248.82.236 - - [20/Apr/2022:15:27:33 +0700] "GET /images/logo-jhipster.png HTTP/1.1" 404 1078
+14.248.82.236 - - [20/Apr/2022:17:23:46 +0700] "GET /images/logo-jhipster.png HTTP/1.1" 404 1078
+14.248.82.236 - - [20/Apr/2022:17:23:46 +0700] "GET /content/images/icons.svg HTTP/1.1" 404 1078

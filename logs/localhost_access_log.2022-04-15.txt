@@ -1,0 +1,15 @@
+146.255.185.134 - - [15/Apr/2022:04:51:44 +0700] "-" 400 2286
+167.248.133.120 - - [15/Apr/2022:13:12:30 +0700] "GET / HTTP/1.1" 404 1078
+183.81.47.123 - - [15/Apr/2022:16:40:28 +0700] "GET /hrm-web/index.html HTTP/1.1" 200 13776
+183.81.47.123 - - [15/Apr/2022:16:40:28 +0700] "GET /hrm-web/runtime.4d7d5327c4593269d11e.js HTTP/1.1" 200 2812
+183.81.47.123 - - [15/Apr/2022:16:40:28 +0700] "GET /hrm-web/polyfills.b3907014be173027c658.js HTTP/1.1" 200 37770
+183.81.47.123 - - [15/Apr/2022:16:40:28 +0700] "GET /hrm-web/main.760bb143643e67f051e6.js HTTP/1.1" 200 173
+183.81.47.123 - - [15/Apr/2022:16:40:28 +0700] "GET /hrm-web/content/css/loading.css HTTP/1.1" 200 3629
+183.81.47.123 - - [15/Apr/2022:16:40:28 +0700] "GET /images/logo-jhipster.png HTTP/1.1" 404 1078
+183.81.47.123 - - [15/Apr/2022:16:40:28 +0700] "GET /hrm-web/styles.f3ab3d8334bef3d749d8.css HTTP/1.1" 200 301011
+183.81.47.123 - - [15/Apr/2022:16:40:29 +0700] "GET /hrm-web/content/images/logo-jhipster.png HTTP/1.1" 200 605
+183.81.47.123 - - [15/Apr/2022:16:40:29 +0700] "GET /content/images/icons.svg HTTP/1.1" 404 1078
+183.81.47.123 - - [15/Apr/2022:16:40:29 +0700] "GET /hrm-web/content/images/red_flag.png HTTP/1.1" 200 5274
+183.81.47.123 - - [15/Apr/2022:16:40:29 +0700] "GET /hrm-web/content/images/icon_default.jpg HTTP/1.1" 200 9776
+183.81.47.123 - - [15/Apr/2022:16:40:29 +0700] "GET /hrm-web/content/images/dua_hau.png HTTP/1.1" 200 17862
+183.81.47.123 - - [15/Apr/2022:16:40:29 +0700] "GET /hrm-web/primeicons.91bacab1f083f2795272.ttf HTTP/1.1" 200 66644

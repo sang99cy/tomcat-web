@@ -1,0 +1,20 @@
+80.82.65.62 - - [08/May/2022:00:52:15 +0700] "-" 400 2286
+89.248.165.252 - - [08/May/2022:11:51:18 +0700] "-" 400 2286
+123.16.250.205 - - [08/May/2022:15:43:07 +0700] "GET /hrm-web/index.html HTTP/1.1" 200 13776
+123.16.250.205 - - [08/May/2022:15:43:11 +0700] "GET /hrm-web/index.html HTTP/1.1" 200 13776
+123.16.250.205 - - [08/May/2022:15:43:11 +0700] "GET /hrm-web/index.html HTTP/1.1" 200 13776
+123.16.250.205 - - [08/May/2022:15:43:11 +0700] "GET /hrm-web/runtime.4d7d5327c4593269d11e.js HTTP/1.1" 200 2812
+123.16.250.205 - - [08/May/2022:15:43:11 +0700] "GET /hrm-web/polyfills.b3907014be173027c658.js HTTP/1.1" 200 37770
+123.16.250.205 - - [08/May/2022:15:43:11 +0700] "GET /hrm-web/main.760bb143643e67f051e6.js HTTP/1.1" 200 173
+123.16.250.205 - - [08/May/2022:15:43:11 +0700] "GET /hrm-web/content/css/loading.css HTTP/1.1" 200 3629
+123.16.250.205 - - [08/May/2022:15:43:11 +0700] "GET /hrm-web/styles.f3ab3d8334bef3d749d8.css HTTP/1.1" 200 301011
+123.16.250.205 - - [08/May/2022:15:43:11 +0700] "GET /images/logo-jhipster.png HTTP/1.1" 404 1078
+123.16.250.205 - - [08/May/2022:15:43:11 +0700] "GET /hrm-web/370.552b95f4692605b23c86.js HTTP/1.1" 200 1749339
+123.16.250.205 - - [08/May/2022:15:43:11 +0700] "GET /hrm-web/content/images/logo-jhipster.png HTTP/1.1" 200 605
+123.16.250.205 - - [08/May/2022:15:43:11 +0700] "GET /hrm-web/i18n/en.json?_=fc64f0332aee309c137ba4cd473985dc HTTP/1.1" 200 11773
+123.16.250.205 - - [08/May/2022:15:43:11 +0700] "GET /content/images/icons.svg HTTP/1.1" 404 1078
+123.16.250.205 - - [08/May/2022:15:43:12 +0700] "GET /hrm-web/content/images/icon_default.jpg HTTP/1.1" 200 9776
+123.16.250.205 - - [08/May/2022:15:43:12 +0700] "GET /hrm-web/content/images/dua_hau.png HTTP/1.1" 200 17862
+123.16.250.205 - - [08/May/2022:15:43:12 +0700] "GET /hrm-web/primeicons.91bacab1f083f2795272.ttf HTTP/1.1" 200 66644
+123.16.250.205 - - [08/May/2022:15:43:14 +0700] "GET /hrm-web/content/images/red_flag.png HTTP/1.1" 200 5274
+123.16.250.205 - - [08/May/2022:15:43:14 +0700] "GET /hrm-web/favicon.ico HTTP/1.1" 200 1574

@@ -1,0 +1,32 @@
+14-Feb-2022 18:48:34.569 SEVERE [ajp-nio-8039-exec-1] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [3338]
+14-Feb-2022 18:48:34.938 SEVERE [ajp-nio-8039-exec-2] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [18245]
+14-Feb-2022 18:48:35.306 SEVERE [ajp-nio-8039-exec-3] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [20304]
+14-Feb-2022 18:48:35.675 SEVERE [ajp-nio-8039-exec-4] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [20304]
+14-Feb-2022 18:48:36.056 SEVERE [ajp-nio-8039-exec-5] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [32768]
+14-Feb-2022 18:48:36.436 SEVERE [ajp-nio-8039-exec-6] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [30]
+14-Feb-2022 18:48:36.806 SEVERE [ajp-nio-8039-exec-7] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [18501]
+14-Feb-2022 18:48:37.178 SEVERE [ajp-nio-8039-exec-9] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [5635]
+14-Feb-2022 18:48:38.588 SEVERE [ajp-nio-8039-exec-8] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [5635]
+14-Feb-2022 18:48:38.974 SEVERE [ajp-nio-8039-exec-10] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [0]
+14-Feb-2022 18:48:39.350 SEVERE [ajp-nio-8039-exec-1] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [0]
+14-Feb-2022 18:48:40.499 INFO [http-nio-8097-exec-5] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+	java.lang.IllegalArgumentException: Invalid character found in the HTTP protocol
+		at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:547)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:682)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:810)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:829)
+14-Feb-2022 18:48:40.753 SEVERE [ajp-nio-8039-exec-2] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [27648]
+14-Feb-2022 18:48:41.128 SEVERE [ajp-nio-8039-exec-3] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [20304]
+14-Feb-2022 18:48:53.996 SEVERE [ajp-nio-8039-exec-4] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [18245]
+14-Feb-2022 18:48:54.384 SEVERE [ajp-nio-8039-exec-5] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [5635]
+14-Feb-2022 18:48:55.957 SEVERE [ajp-nio-8039-exec-6] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [5635]
+14-Feb-2022 18:48:56.360 SEVERE [ajp-nio-8039-exec-7] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [5635]
+14-Feb-2022 18:48:56.666 SEVERE [ajp-nio-8039-exec-9] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [3584]
+14-Feb-2022 20:39:16.136 SEVERE [ajp-nio-8039-exec-10] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature [768]

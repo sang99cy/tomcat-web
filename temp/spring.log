@@ -1,0 +1,110 @@
+2021-12-06 14:24:52.770  INFO 58164 --- [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.ehcache.core.EhcacheManager          : Cache 'usersByEmail' removed from EhcacheManager.
+2021-12-06 14:24:52.788  INFO 58164 --- [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.ehcache.core.EhcacheManager          : Cache 'usersByLogin' removed from EhcacheManager.
+2021-12-06 14:28:24.800  INFO 32242 --- [localhost-startStop-1] vbi.web.portal.ApplicationWebXml         : The following profiles are active: dev,swagger,no-liquibase
+2021-12-06 14:28:33.247  INFO 32242 --- [localhost-startStop-1] vbi.web.portal.config.WebConfigurer      : Web application configuration, using profiles: dev
+2021-12-06 14:28:33.251  INFO 32242 --- [localhost-startStop-1] vbi.web.portal.config.WebConfigurer      : Web application fully configured
+2021-12-06 14:28:33.704  INFO 32242 --- [localhost-startStop-1] org.ehcache.core.EhcacheManager          : Cache 'usersByLogin' created in EhcacheManager.
+2021-12-06 14:28:33.744  INFO 32242 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByLogin
+2021-12-06 14:28:33.757  INFO 32242 --- [localhost-startStop-1] org.ehcache.core.EhcacheManager          : Cache 'usersByEmail' created in EhcacheManager.
+2021-12-06 14:28:33.759  INFO 32242 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByEmail
+2021-12-06 14:28:33.768  INFO 32242 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByEmail
+2021-12-06 14:28:33.770  INFO 32242 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByLogin
+2021-12-06 14:28:36.828  WARN 32242 --- [localhost-startStop-1] org.hibernate.orm.deprecation            : HHH90000014: Found use of deprecated [org.hibernate.id.SequenceHiLoGenerator] sequence-based id generator; use org.hibernate.id.enhanced.SequenceStyleGenerator instead.  See Hibernate Domain Model Mapping Guide for details.
+2021-12-06 14:28:36.836  WARN 32242 --- [localhost-startStop-1] org.hibernate.orm.deprecation            : HHH90000014: Found use of deprecated [org.hibernate.id.SequenceHiLoGenerator] sequence-based id generator; use org.hibernate.id.enhanced.SequenceStyleGenerator instead.  See Hibernate Domain Model Mapping Guide for details.
+2021-12-06 14:28:48.869 ERROR 32242 --- [localhost-startStop-1] vbi.web.portal.web.rest.Scheduler        : error.userExists
+2021-12-06 14:29:44.320  WARN 32242 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 14:29:44.619  WARN 32242 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 14:29:44.623  WARN 32242 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 14:29:44.726  WARN 32242 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.String[]
+2021-12-06 14:29:44.726  WARN 32242 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.String[]
+2021-12-06 14:29:45.209  WARN 32242 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 14:29:45.210  WARN 32242 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 14:29:45.738  INFO 32242 --- [localhost-startStop-1] vbi.web.portal.ApplicationWebXml         : Started ApplicationWebXml in 84.753 seconds (JVM running for 97.189)
+2021-12-06 14:38:06.631  INFO 35646 --- [localhost-startStop-1] vbi.web.portal.ApplicationWebXml         : The following profiles are active: dev,swagger,no-liquibase
+2021-12-06 14:38:14.240  INFO 35646 --- [localhost-startStop-1] vbi.web.portal.config.WebConfigurer      : Web application configuration, using profiles: dev
+2021-12-06 14:38:14.243  INFO 35646 --- [localhost-startStop-1] vbi.web.portal.config.WebConfigurer      : Web application fully configured
+2021-12-06 14:38:14.800  INFO 35646 --- [localhost-startStop-1] org.ehcache.core.EhcacheManager          : Cache 'usersByLogin' created in EhcacheManager.
+2021-12-06 14:38:14.838  INFO 35646 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByLogin
+2021-12-06 14:38:14.854  INFO 35646 --- [localhost-startStop-1] org.ehcache.core.EhcacheManager          : Cache 'usersByEmail' created in EhcacheManager.
+2021-12-06 14:38:14.862  INFO 35646 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByEmail
+2021-12-06 14:38:14.880  INFO 35646 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByEmail
+2021-12-06 14:38:14.884  INFO 35646 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByLogin
+2021-12-06 14:38:18.865  WARN 35646 --- [localhost-startStop-1] org.hibernate.orm.deprecation            : HHH90000014: Found use of deprecated [org.hibernate.id.SequenceHiLoGenerator] sequence-based id generator; use org.hibernate.id.enhanced.SequenceStyleGenerator instead.  See Hibernate Domain Model Mapping Guide for details.
+2021-12-06 14:38:18.871  WARN 35646 --- [localhost-startStop-1] org.hibernate.orm.deprecation            : HHH90000014: Found use of deprecated [org.hibernate.id.SequenceHiLoGenerator] sequence-based id generator; use org.hibernate.id.enhanced.SequenceStyleGenerator instead.  See Hibernate Domain Model Mapping Guide for details.
+2021-12-06 14:38:31.897 ERROR 35646 --- [localhost-startStop-1] vbi.web.portal.web.rest.Scheduler        : error.userExists
+2021-12-06 14:39:28.138  WARN 35646 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 14:39:28.355  WARN 35646 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 14:39:28.361  WARN 35646 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 14:39:28.543  WARN 35646 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.String[]
+2021-12-06 14:39:28.544  WARN 35646 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.String[]
+2021-12-06 14:39:28.949  WARN 35646 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 14:39:28.950  WARN 35646 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 14:39:29.287  INFO 35646 --- [localhost-startStop-1] vbi.web.portal.ApplicationWebXml         : Started ApplicationWebXml in 85.313 seconds (JVM running for 98.415)
+2021-12-06 15:15:43.592  INFO 35646 --- [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.ehcache.core.EhcacheManager          : Cache 'usersByEmail' removed from EhcacheManager.
+2021-12-06 15:15:43.597  INFO 35646 --- [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.ehcache.core.EhcacheManager          : Cache 'usersByLogin' removed from EhcacheManager.
+2021-12-06 15:17:48.900  INFO 48620 --- [localhost-startStop-1] vbi.web.portal.ApplicationWebXml         : The following profiles are active: dev,swagger,no-liquibase
+2021-12-06 15:17:56.729  INFO 48620 --- [localhost-startStop-1] vbi.web.portal.config.WebConfigurer      : Web application configuration, using profiles: dev
+2021-12-06 15:17:56.732  INFO 48620 --- [localhost-startStop-1] vbi.web.portal.config.WebConfigurer      : Web application fully configured
+2021-12-06 15:17:57.180  INFO 48620 --- [localhost-startStop-1] org.ehcache.core.EhcacheManager          : Cache 'usersByLogin' created in EhcacheManager.
+2021-12-06 15:17:57.209  INFO 48620 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByLogin
+2021-12-06 15:17:57.219  INFO 48620 --- [localhost-startStop-1] org.ehcache.core.EhcacheManager          : Cache 'usersByEmail' created in EhcacheManager.
+2021-12-06 15:17:57.220  INFO 48620 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByEmail
+2021-12-06 15:17:57.229  INFO 48620 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByEmail
+2021-12-06 15:17:57.231  INFO 48620 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByLogin
+2021-12-06 15:18:00.493  WARN 48620 --- [localhost-startStop-1] org.hibernate.orm.deprecation            : HHH90000014: Found use of deprecated [org.hibernate.id.SequenceHiLoGenerator] sequence-based id generator; use org.hibernate.id.enhanced.SequenceStyleGenerator instead.  See Hibernate Domain Model Mapping Guide for details.
+2021-12-06 15:18:00.498  WARN 48620 --- [localhost-startStop-1] org.hibernate.orm.deprecation            : HHH90000014: Found use of deprecated [org.hibernate.id.SequenceHiLoGenerator] sequence-based id generator; use org.hibernate.id.enhanced.SequenceStyleGenerator instead.  See Hibernate Domain Model Mapping Guide for details.
+2021-12-06 15:18:13.044 ERROR 48620 --- [localhost-startStop-1] vbi.web.portal.web.rest.Scheduler        : error.userExists
+2021-12-06 15:19:08.155  WARN 48620 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:19:08.369  WARN 48620 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:19:08.377  WARN 48620 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:19:08.537  WARN 48620 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.String[]
+2021-12-06 15:19:08.538  WARN 48620 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.String[]
+2021-12-06 15:19:09.059  WARN 48620 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:19:09.060  WARN 48620 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:19:09.602  INFO 48620 --- [localhost-startStop-1] vbi.web.portal.ApplicationWebXml         : Started ApplicationWebXml in 84.519 seconds (JVM running for 98.428)
+2021-12-06 15:23:35.367  INFO 48620 --- [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.ehcache.core.EhcacheManager          : Cache 'usersByEmail' removed from EhcacheManager.
+2021-12-06 15:23:35.370  INFO 48620 --- [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.ehcache.core.EhcacheManager          : Cache 'usersByLogin' removed from EhcacheManager.
+2021-12-06 15:26:03.990  INFO 49506 --- [localhost-startStop-1] vbi.web.portal.ApplicationWebXml         : The following profiles are active: dev,swagger,no-liquibase
+2021-12-06 15:26:11.578  INFO 49506 --- [localhost-startStop-1] vbi.web.portal.config.WebConfigurer      : Web application configuration, using profiles: dev
+2021-12-06 15:26:11.582  INFO 49506 --- [localhost-startStop-1] vbi.web.portal.config.WebConfigurer      : Web application fully configured
+2021-12-06 15:26:12.198  INFO 49506 --- [localhost-startStop-1] org.ehcache.core.EhcacheManager          : Cache 'usersByLogin' created in EhcacheManager.
+2021-12-06 15:26:12.223  INFO 49506 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByLogin
+2021-12-06 15:26:12.231  INFO 49506 --- [localhost-startStop-1] org.ehcache.core.EhcacheManager          : Cache 'usersByEmail' created in EhcacheManager.
+2021-12-06 15:26:12.232  INFO 49506 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByEmail
+2021-12-06 15:26:12.240  INFO 49506 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByEmail
+2021-12-06 15:26:12.241  INFO 49506 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByLogin
+2021-12-06 15:26:15.545  WARN 49506 --- [localhost-startStop-1] org.hibernate.orm.deprecation            : HHH90000014: Found use of deprecated [org.hibernate.id.SequenceHiLoGenerator] sequence-based id generator; use org.hibernate.id.enhanced.SequenceStyleGenerator instead.  See Hibernate Domain Model Mapping Guide for details.
+2021-12-06 15:26:15.551  WARN 49506 --- [localhost-startStop-1] org.hibernate.orm.deprecation            : HHH90000014: Found use of deprecated [org.hibernate.id.SequenceHiLoGenerator] sequence-based id generator; use org.hibernate.id.enhanced.SequenceStyleGenerator instead.  See Hibernate Domain Model Mapping Guide for details.
+2021-12-06 15:26:28.241 ERROR 49506 --- [localhost-startStop-1] vbi.web.portal.web.rest.Scheduler        : error.userExists
+2021-12-06 15:27:24.553  WARN 49506 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:27:24.752  WARN 49506 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:27:24.757  WARN 49506 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:27:24.867  WARN 49506 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.String[]
+2021-12-06 15:27:24.867  WARN 49506 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.String[]
+2021-12-06 15:27:25.187  WARN 49506 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:27:25.188  WARN 49506 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:27:25.490  INFO 49506 --- [localhost-startStop-1] vbi.web.portal.ApplicationWebXml         : Started ApplicationWebXml in 84.468 seconds (JVM running for 97.891)
+2021-12-06 15:31:28.241  INFO 49506 --- [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.ehcache.core.EhcacheManager          : Cache 'usersByEmail' removed from EhcacheManager.
+2021-12-06 15:31:28.245  INFO 49506 --- [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.ehcache.core.EhcacheManager          : Cache 'usersByLogin' removed from EhcacheManager.
+2021-12-06 15:33:10.489  INFO 50275 --- [localhost-startStop-1] vbi.web.portal.ApplicationWebXml         : The following profiles are active: dev,swagger,no-liquibase
+2021-12-06 15:33:18.238  INFO 50275 --- [localhost-startStop-1] vbi.web.portal.config.WebConfigurer      : Web application configuration, using profiles: dev
+2021-12-06 15:33:18.242  INFO 50275 --- [localhost-startStop-1] vbi.web.portal.config.WebConfigurer      : Web application fully configured
+2021-12-06 15:33:18.748  INFO 50275 --- [localhost-startStop-1] org.ehcache.core.EhcacheManager          : Cache 'usersByLogin' created in EhcacheManager.
+2021-12-06 15:33:18.776  INFO 50275 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByLogin
+2021-12-06 15:33:18.791  INFO 50275 --- [localhost-startStop-1] org.ehcache.core.EhcacheManager          : Cache 'usersByEmail' created in EhcacheManager.
+2021-12-06 15:33:18.793  INFO 50275 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByEmail
+2021-12-06 15:33:18.804  INFO 50275 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByEmail
+2021-12-06 15:33:18.806  INFO 50275 --- [localhost-startStop-1] org.ehcache.jsr107.Eh107CacheManager     : Registering Ehcache MBean javax.cache:type=CacheStatistics,CacheManager=urn.X-ehcache.jsr107-default-config,Cache=usersByLogin
+2021-12-06 15:33:22.625  WARN 50275 --- [localhost-startStop-1] org.hibernate.orm.deprecation            : HHH90000014: Found use of deprecated [org.hibernate.id.SequenceHiLoGenerator] sequence-based id generator; use org.hibernate.id.enhanced.SequenceStyleGenerator instead.  See Hibernate Domain Model Mapping Guide for details.
+2021-12-06 15:33:22.635  WARN 50275 --- [localhost-startStop-1] org.hibernate.orm.deprecation            : HHH90000014: Found use of deprecated [org.hibernate.id.SequenceHiLoGenerator] sequence-based id generator; use org.hibernate.id.enhanced.SequenceStyleGenerator instead.  See Hibernate Domain Model Mapping Guide for details.
+2021-12-06 15:33:35.268 ERROR 50275 --- [localhost-startStop-1] vbi.web.portal.web.rest.Scheduler        : error.userExists
+2021-12-06 15:34:24.740  WARN 50275 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:34:24.942  WARN 50275 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:34:24.948  WARN 50275 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:34:25.053  WARN 50275 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.String[]
+2021-12-06 15:34:25.054  WARN 50275 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.String[]
+2021-12-06 15:34:25.435  WARN 50275 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:34:25.435  WARN 50275 --- [localhost-startStop-1] s.d.s.w.r.p.ParameterDataTypeReader      : Trying to infer dataType java.lang.Long[]
+2021-12-06 15:34:25.747  INFO 50275 --- [localhost-startStop-1] vbi.web.portal.ApplicationWebXml         : Started ApplicationWebXml in 78.339 seconds (JVM running for 92.163)
+2021-12-06 17:24:30.606  INFO 50275 --- [localhost-startStop-2] org.ehcache.core.EhcacheManager          : Cache 'usersByEmail' removed from EhcacheManager.
+2021-12-06 17:24:30.609  INFO 50275 --- [localhost-startStop-2] org.ehcache.core.EhcacheManager          : Cache 'usersByLogin' removed from EhcacheManager.

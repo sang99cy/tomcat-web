@@ -1,0 +1,22 @@
+89.248.163.134 - - [13/Apr/2022:05:46:12 +0700] "-" 400 2286
+167.94.138.120 - - [13/Apr/2022:11:50:46 +0700] "GET / HTTP/1.1" 404 1078
+8.31.2.62 - - [13/Apr/2022:16:21:57 +0700] "GET / HTTP/1.1" 404 1078
+111.7.100.18 - - [13/Apr/2022:16:21:58 +0700] "GET / HTTP/1.1" 404 1078
+8.31.2.62 - - [13/Apr/2022:16:22:06 +0700] "GET /favicon.ico HTTP/1.1" 404 1078
+205.185.117.203 - - [13/Apr/2022:16:22:07 +0700] "GET /favicon.ico HTTP/1.1" 404 1078
+1.52.252.14 - - [13/Apr/2022:22:24:59 +0700] "GET /hrm-web/index.html HTTP/1.1" 200 13776
+1.52.252.14 - - [13/Apr/2022:22:24:59 +0700] "GET /hrm-web/polyfills.b3907014be173027c658.js HTTP/1.1" 200 37770
+1.52.252.14 - - [13/Apr/2022:22:24:59 +0700] "GET /hrm-web/content/css/loading.css HTTP/1.1" 200 3629
+1.52.252.14 - - [13/Apr/2022:22:24:59 +0700] "GET /images/logo-jhipster.png HTTP/1.1" 404 1078
+1.52.252.14 - - [13/Apr/2022:22:24:59 +0700] "GET /hrm-web/styles.f3ab3d8334bef3d749d8.css HTTP/1.1" 200 301011
+1.52.252.14 - - [13/Apr/2022:22:24:59 +0700] "GET /hrm-web/content/images/logo-jhipster.png HTTP/1.1" 200 605
+1.52.252.14 - - [13/Apr/2022:22:25:00 +0700] "GET /content/images/icons.svg HTTP/1.1" 404 1078
+1.52.252.14 - - [13/Apr/2022:22:25:00 +0700] "GET /hrm-web/content/images/red_flag.png HTTP/1.1" 200 5274
+1.52.252.14 - - [13/Apr/2022:22:25:00 +0700] "GET /hrm-web/content/images/dua_hau.png HTTP/1.1" 200 17862
+1.52.252.14 - - [13/Apr/2022:22:25:00 +0700] "GET /hrm-web/content/images/icon_default.jpg HTTP/1.1" 200 9776
+1.52.252.14 - - [13/Apr/2022:22:25:02 +0700] "GET /hrm-web/primeicons.91bacab1f083f2795272.ttf HTTP/1.1" 200 66644
+1.52.252.14 - - [13/Apr/2022:22:25:40 +0700] "GET /hrm-web/index.html HTTP/1.1" 200 13776
+1.52.252.14 - - [13/Apr/2022:22:25:41 +0700] "GET /content/images/icons.svg HTTP/1.1" 404 1078
+1.52.252.14 - - [13/Apr/2022:22:25:41 +0700] "GET /hrm-web/favicon.ico HTTP/1.1" 200 1574
+1.52.252.14 - - [13/Apr/2022:22:25:45 +0700] "GET /content/images/icons.svg HTTP/1.1" 404 1078
+1.52.252.14 - - [13/Apr/2022:22:27:38 +0700] "GET /hrm-web/manifest.webapp HTTP/1.1" 200 778

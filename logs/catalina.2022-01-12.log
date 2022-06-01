@@ -1,0 +1,36 @@
+12-Jan-2022 11:11:21.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.45
+12-Jan-2022 11:11:21.911 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 14 2019 22:21:25 UTC
+12-Jan-2022 11:11:21.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.45.0
+12-Jan-2022 11:11:21.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+12-Jan-2022 11:11:21.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.15.0-162-generic
+12-Jan-2022 11:11:21.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Jan-2022 11:11:21.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+12-Jan-2022 11:11:21.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.11+9-Ubuntu-0ubuntu2.18.04
+12-Jan-2022 11:11:21.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+12-Jan-2022 11:11:21.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/HRM/tomcat_web
+12-Jan-2022 11:11:21.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/HRM/tomcat_web
+12-Jan-2022 11:11:21.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+12-Jan-2022 11:11:21.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+12-Jan-2022 11:11:21.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+12-Jan-2022 11:11:21.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/HRM/tomcat_web/conf/logging.properties
+12-Jan-2022 11:11:21.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Jan-2022 11:11:21.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Jan-2022 11:11:21.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Jan-2022 11:11:21.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-Jan-2022 11:11:21.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Jan-2022 11:11:21.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/HRM/tomcat_web
+12-Jan-2022 11:11:21.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/HRM/tomcat_web
+12-Jan-2022 11:11:21.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/HRM/tomcat_web/temp
+12-Jan-2022 11:11:21.916 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+12-Jan-2022 11:11:21.950 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8097"]
+12-Jan-2022 11:11:21.960 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jan-2022 11:11:21.972 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8039"]
+12-Jan-2022 11:11:21.973 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jan-2022 11:11:21.974 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 600 ms
+12-Jan-2022 11:11:22.041 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Jan-2022 11:11:22.041 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.45
+12-Jan-2022 11:11:22.079 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/HRM/tomcat_web/webapps/hrm-web]
+12-Jan-2022 11:11:22.375 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/HRM/tomcat_web/webapps/hrm-web] has finished in [295] ms
+12-Jan-2022 11:11:22.379 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8097"]
+12-Jan-2022 11:11:22.392 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8039"]
+12-Jan-2022 11:11:22.413 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 438 ms

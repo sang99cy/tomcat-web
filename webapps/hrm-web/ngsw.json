@@ -1,0 +1,153 @@
+{
+  "configVersion": 1,
+  "timestamp": 1645429885944,
+  "index": "/hrm-web/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/hrm-web/370.552b95f4692605b23c86.js",
+        "/hrm-web/997.ff242c6b715ec2f78356.js",
+        "/hrm-web/favicon.ico",
+        "/hrm-web/index.html",
+        "/hrm-web/main.760bb143643e67f051e6.js",
+        "/hrm-web/manifest.webapp",
+        "/hrm-web/polyfills.b3907014be173027c658.js",
+        "/hrm-web/runtime.4d7d5327c4593269d11e.js",
+        "/hrm-web/styles.f3ab3d8334bef3d749d8.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/hrm-web/color.6441e63a57ccc5105bad.png",
+        "/hrm-web/content/css/loading.css",
+        "/hrm-web/content/images/Ellipse 10.jpg",
+        "/hrm-web/content/images/Rectangle 9.png",
+        "/hrm-web/content/images/background_tet.png",
+        "/hrm-web/content/images/cay_dao.png",
+        "/hrm-web/content/images/cay_mai.png",
+        "/hrm-web/content/images/dua_hau.png",
+        "/hrm-web/content/images/icon_default.jpg",
+        "/hrm-web/content/images/icons.svg",
+        "/hrm-web/content/images/jhipster_family_member_0.svg",
+        "/hrm-web/content/images/jhipster_family_member_0_head-192.png",
+        "/hrm-web/content/images/jhipster_family_member_0_head-256.png",
+        "/hrm-web/content/images/jhipster_family_member_0_head-384.png",
+        "/hrm-web/content/images/jhipster_family_member_0_head-512.png",
+        "/hrm-web/content/images/jhipster_family_member_1.svg",
+        "/hrm-web/content/images/jhipster_family_member_1_head-192.png",
+        "/hrm-web/content/images/jhipster_family_member_1_head-256.png",
+        "/hrm-web/content/images/jhipster_family_member_1_head-384.png",
+        "/hrm-web/content/images/jhipster_family_member_1_head-512.png",
+        "/hrm-web/content/images/jhipster_family_member_2.svg",
+        "/hrm-web/content/images/jhipster_family_member_2_head-192.png",
+        "/hrm-web/content/images/jhipster_family_member_2_head-256.png",
+        "/hrm-web/content/images/jhipster_family_member_2_head-384.png",
+        "/hrm-web/content/images/jhipster_family_member_2_head-512.png",
+        "/hrm-web/content/images/jhipster_family_member_3.svg",
+        "/hrm-web/content/images/jhipster_family_member_3_head-192.png",
+        "/hrm-web/content/images/jhipster_family_member_3_head-256.png",
+        "/hrm-web/content/images/jhipster_family_member_3_head-384.png",
+        "/hrm-web/content/images/jhipster_family_member_3_head-512.png",
+        "/hrm-web/content/images/logo-jhipster.png",
+        "/hrm-web/content/images/red_flag.png",
+        "/hrm-web/content/scss/_bootstrap-variables.scss",
+        "/hrm-web/content/scss/global.scss",
+        "/hrm-web/content/scss/vars.scss",
+        "/hrm-web/content/scss/vendor.scss",
+        "/hrm-web/hue.f8505bd4d6f3e3aa435b.png",
+        "/hrm-web/logo-jhipster.cfd81fbabebba3d187b7.png",
+        "/hrm-web/primeicons.449aa8c65cdc5c2a8686.woff",
+        "/hrm-web/primeicons.7fc4d8e224d1ff1b9c62.eot",
+        "/hrm-web/primeicons.91bacab1f083f2795272.ttf",
+        "/hrm-web/primeicons.c6e2053303524e39530c.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/hrm-web/370.552b95f4692605b23c86.js": "7a947975d088e4b7136226635041a404c6421f70",
+    "/hrm-web/997.ff242c6b715ec2f78356.js": "02b6a15054069c9b6f6ffa7abc76e8d9214bea09",
+    "/hrm-web/color.6441e63a57ccc5105bad.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
+    "/hrm-web/content/css/loading.css": "e3adf345abab8944f8e3f1847be6571e25b1c476",
+    "/hrm-web/content/images/Ellipse 10.jpg": "97285faa1560594f28f1a9b9bd00ebf5b5c4e7e9",
+    "/hrm-web/content/images/Rectangle 9.png": "c518b47686e444190c85aa2345e85533b6b500f4",
+    "/hrm-web/content/images/background_tet.png": "84cfcb0ec2b4a19141174dccc11bd41c17be4b51",
+    "/hrm-web/content/images/cay_dao.png": "9c2989891cad8052ef8cf7a5834a8645dd9d4026",
+    "/hrm-web/content/images/cay_mai.png": "9790d4de8d5c48e8367e9c1e3e55c03dd74c327d",
+    "/hrm-web/content/images/dua_hau.png": "269ee7923092d9fafe581505aaf2cdac960c4de8",
+    "/hrm-web/content/images/icon_default.jpg": "190c98b156e653448f24552e1ce4baeed5ff1b16",
+    "/hrm-web/content/images/icons.svg": "8fa5097e2d61bb266b95e3772413bebd88f75e8d",
+    "/hrm-web/content/images/jhipster_family_member_0.svg": "d74ed3591e3a916224096cef4f87dc3bd7479386",
+    "/hrm-web/content/images/jhipster_family_member_0_head-192.png": "df480d17864835a76db4abd997176e13cfa38d2c",
+    "/hrm-web/content/images/jhipster_family_member_0_head-256.png": "ec1cd28328e885231c2d9a451cc46a8d4f10d6f4",
+    "/hrm-web/content/images/jhipster_family_member_0_head-384.png": "55c081b847a19807b34b48e31e63a464a2726d4e",
+    "/hrm-web/content/images/jhipster_family_member_0_head-512.png": "6cf7f74775338ab98de40ef589c68337fe8e859c",
+    "/hrm-web/content/images/jhipster_family_member_1.svg": "61a207bca2c8b0dac21fc945d2f2505e4b5d3a30",
+    "/hrm-web/content/images/jhipster_family_member_1_head-192.png": "ba95a15a915e98e756f8c0f6202cbb7146913d7a",
+    "/hrm-web/content/images/jhipster_family_member_1_head-256.png": "ae556422471b55c075155b881fa3d5ee646f968a",
+    "/hrm-web/content/images/jhipster_family_member_1_head-384.png": "0270ae0a742ebc7eaef16840d708a06663723204",
+    "/hrm-web/content/images/jhipster_family_member_1_head-512.png": "a432afd937aae212f7a5ea3b0285bd74b7358812",
+    "/hrm-web/content/images/jhipster_family_member_2.svg": "4b05e0217c9e27910087f76aa24a5699f7a3a30e",
+    "/hrm-web/content/images/jhipster_family_member_2_head-192.png": "7daaed3c0c953917ad905857627dbfc6466856af",
+    "/hrm-web/content/images/jhipster_family_member_2_head-256.png": "67f06e7a90ac379846940f1332d9d10398c49ae5",
+    "/hrm-web/content/images/jhipster_family_member_2_head-384.png": "7a0f8b1cc27ec81ce80bc1903f6faa2dab5524d9",
+    "/hrm-web/content/images/jhipster_family_member_2_head-512.png": "ee068745494bc8e72479d25287f2f80934f38c6d",
+    "/hrm-web/content/images/jhipster_family_member_3.svg": "0690f4141a25d739ed9429b0b315cc94196a3644",
+    "/hrm-web/content/images/jhipster_family_member_3_head-192.png": "58b5043c79afe05573cd8c3f7c23cc84c96ca362",
+    "/hrm-web/content/images/jhipster_family_member_3_head-256.png": "ee0fd7e4d2c0882650575bbaca55dee69dcaa064",
+    "/hrm-web/content/images/jhipster_family_member_3_head-384.png": "cf311c64f4d6762559ab3063521524f736f0975a",
+    "/hrm-web/content/images/jhipster_family_member_3_head-512.png": "97e81d97579be35f112fa057028887fbb80f962c",
+    "/hrm-web/content/images/logo-jhipster.png": "e1e46028ec092ca351425b07707fcdd52146b0b3",
+    "/hrm-web/content/images/red_flag.png": "961eb7b1bc7bdcfa712be0e9e45486bffa9df70b",
+    "/hrm-web/content/scss/_bootstrap-variables.scss": "ab4685a22272076b38d522635b5bfd602c525a43",
+    "/hrm-web/content/scss/global.scss": "40bac67ad33642a3b2e32d272da1234115b19f08",
+    "/hrm-web/content/scss/vars.scss": "792f779b381d18e9051c7b4515aac3440d436e4d",
+    "/hrm-web/content/scss/vendor.scss": "6885c3ff2ca43c6f9506dcd073219c700e4eaa88",
+    "/hrm-web/favicon.ico": "69547cd4a95b59ac7e6818b6eb82befa061d0c16",
+    "/hrm-web/hue.f8505bd4d6f3e3aa435b.png": "f81ae627637a684614aa726e206c73ce099a01fd",
+    "/hrm-web/index.html": "2ffe043094c5dd908019fa674d7ad3b73e95f75e",
+    "/hrm-web/logo-jhipster.cfd81fbabebba3d187b7.png": "e1e46028ec092ca351425b07707fcdd52146b0b3",
+    "/hrm-web/main.760bb143643e67f051e6.js": "46e55e4d18acb1e50e8b3a69a73db30abd98a3ad",
+    "/hrm-web/manifest.webapp": "09ba362d238364dcd6bbcd64b84e8c0c091df69f",
+    "/hrm-web/polyfills.b3907014be173027c658.js": "896aa08bf733ae98b565d7c450d202673bc95a25",
+    "/hrm-web/primeicons.449aa8c65cdc5c2a8686.woff": "21e477ea19e15b66344bcc23b3fbb2161092a707",
+    "/hrm-web/primeicons.7fc4d8e224d1ff1b9c62.eot": "ccf65e40680b0ede6ab46939d421c831ae6afcf4",
+    "/hrm-web/primeicons.91bacab1f083f2795272.ttf": "e6c86ca90a9fb4282fb35523d56fde00e78a1416",
+    "/hrm-web/primeicons.c6e2053303524e39530c.svg": "621775b2ec555fd2dd152a24390cf6dfeee168b1",
+    "/hrm-web/runtime.4d7d5327c4593269d11e.js": "449035d626a5eb499b7ff028634dca2fe36ce7e7",
+    "/hrm-web/styles.f3ab3d8334bef3d749d8.css": "5d283f308bc5135912223e6018ac3af606da4ff4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

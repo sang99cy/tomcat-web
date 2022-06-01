@@ -1,0 +1,26 @@
+58.187.25.128 - - [06/Apr/2022:00:12:39 +0700] "GET /hrm-web/primeicons.91bacab1f083f2795272.ttf HTTP/1.1" 200 66644
+58.187.25.128 - - [06/Apr/2022:10:46:54 +0700] "GET /hrm-web/index.html HTTP/1.1" 200 13776
+58.187.25.128 - - [06/Apr/2022:10:46:55 +0700] "GET /images/logo-jhipster.png HTTP/1.1" 404 1078
+58.187.25.128 - - [06/Apr/2022:10:46:58 +0700] "GET /content/images/icons.svg HTTP/1.1" 404 1078
+167.248.133.62 - - [06/Apr/2022:15:43:57 +0700] "GET / HTTP/1.1" 404 1078
+146.255.185.134 - - [06/Apr/2022:17:03:22 +0700] "-" 400 2286
+113.178.37.195 - - [06/Apr/2022:22:52:56 +0700] "GET /hrm-web/index.html HTTP/1.1" 200 13776
+113.178.37.195 - - [06/Apr/2022:22:52:56 +0700] "GET /hrm-web/index.html HTTP/1.1" 200 13776
+113.178.37.195 - - [06/Apr/2022:22:52:56 +0700] "GET /hrm-web/index.html HTTP/1.1" 200 13776
+113.178.37.195 - - [06/Apr/2022:22:52:56 +0700] "GET /hrm-web/runtime.4d7d5327c4593269d11e.js HTTP/1.1" 200 2812
+113.178.37.195 - - [06/Apr/2022:22:52:56 +0700] "GET /hrm-web/polyfills.b3907014be173027c658.js HTTP/1.1" 200 37770
+113.178.37.195 - - [06/Apr/2022:22:52:56 +0700] "GET /hrm-web/main.760bb143643e67f051e6.js HTTP/1.1" 200 173
+113.178.37.195 - - [06/Apr/2022:22:52:56 +0700] "GET /images/logo-jhipster.png HTTP/1.1" 404 998
+113.178.37.195 - - [06/Apr/2022:22:52:56 +0700] "GET /hrm-web/content/css/loading.css HTTP/1.1" 200 3629
+113.178.37.195 - - [06/Apr/2022:22:52:56 +0700] "GET /hrm-web/styles.f3ab3d8334bef3d749d8.css HTTP/1.1" 200 301011
+113.178.37.195 - - [06/Apr/2022:22:52:56 +0700] "GET /hrm-web/370.552b95f4692605b23c86.js HTTP/1.1" 200 1749339
+113.178.37.195 - - [06/Apr/2022:22:52:57 +0700] "GET /hrm-web/content/images/logo-jhipster.png HTTP/1.1" 200 605
+113.178.37.195 - - [06/Apr/2022:22:52:57 +0700] "GET /hrm-web/i18n/en.json?_=fc64f0332aee309c137ba4cd473985dc HTTP/1.1" 200 11773
+113.178.37.195 - - [06/Apr/2022:22:52:57 +0700] "GET /content/images/icons.svg HTTP/1.1" 404 998
+113.178.37.195 - - [06/Apr/2022:22:52:57 +0700] "GET /hrm-web/content/images/red_flag.png HTTP/1.1" 200 5274
+113.178.37.195 - - [06/Apr/2022:22:52:57 +0700] "GET /hrm-web/content/images/dua_hau.png HTTP/1.1" 200 17862
+113.178.37.195 - - [06/Apr/2022:22:52:57 +0700] "GET /hrm-web/content/images/icon_default.jpg HTTP/1.1" 200 9776
+113.178.37.195 - - [06/Apr/2022:22:52:57 +0700] "GET /hrm-web/primeicons.91bacab1f083f2795272.ttf HTTP/1.1" 200 66644
+113.178.37.195 - - [06/Apr/2022:22:52:57 +0700] "GET /hrm-web/favicon.ico HTTP/1.1" 200 1574
+113.178.37.195 - - [06/Apr/2022:22:54:01 +0700] "GET /hrm-web/content/images/icon_default.jpg HTTP/1.1" 200 9776
+113.178.37.195 - - [06/Apr/2022:22:54:01 +0700] "GET /hrm-web/content/images/icon_default.jpg HTTP/1.1" 200 9776

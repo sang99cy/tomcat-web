@@ -1,0 +1,3 @@
+03-Jan-2022 22:29:18.246 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/HRM/tomcat_web/webapps/hrm-web-copy]
+03-Jan-2022 22:29:18.300 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/HRM/tomcat_web/webapps/hrm-web-copy] has finished in [54] ms
+03-Jan-2022 22:30:38.809 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/hrm-web-copy]
